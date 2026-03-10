@@ -9,51 +9,26 @@ While I have a few projects here on GitHub, my most recent projects can be found
 - Exploring new backend tools and system design concepts.
 
 ## 🛠️ Current Tech Stack
-### Languages
-- Python
-- JavaScript
-- TypeScript
-- HTML
-- CSS
-- SQL
-- GraphQL
-- Shell scripting
+
+### Backend & Databases
+- Python · Flask · ORM
+- API · REST · GraphQL · SQL
+- MySQL · PostgreSQL · MongoDB · ArangoDB
+- Redis · Firebase · Headless CMS
 
 ### Frontend
-- React
-- Vue.js
-- Next.js
-- Tailwind
-- Storybook
+- HTML · CSS · JavaScript · TypeScript
+- React · Vue.js · Next.js
+- Tailwind · Storybook
 
-### Backend
-- Flask
-- REST APIs
-- ORMs
+### DevOps & Infrastucture
+- Linux · Docker · Nginx
+- Shell scripting
+- CI/CD · GitLab Pipelines
 
-### Databases
-- MySQL
-- PostgreSQL
-- MongoDB
-- ArangoDB
-- Redis
-
-### DevOps & Infrastructure
-- Docker
-- Nginx
-- Linux
-- CI/CD
-- GitLab Pipelines
-- Firebase
-- Headless CMS
-
-### Tools
-- Git
-- GitHub
-- GitLab
-- Vim
-- Jupyter
-- Postman
+### Tools & Utilities
+- Git · GitHub · GitLab
+- Vim · Jupyter · Postman
 
 ## 💻 Personal Setup
 - macOS
