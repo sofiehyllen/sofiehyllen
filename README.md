@@ -11,27 +11,24 @@ While I have a few projects here on GitHub, my most recent projects can be found
 ## 🛠️ Current Tech Stack
 
 ### Backend & Databases
-- Python · Flask · ORM
-- API · REST · GraphQL · SQL
+- Python · Flask · API/REST/GraphQL
 - MySQL · PostgreSQL · MongoDB · ArangoDB
-- Redis · Firebase · Headless CMS
+- Redis · Firebase · SQLAlchemy · Headless CMS
 
 ### Frontend
 - HTML · CSS · JavaScript · TypeScript
-- React · Vue.js · Next.js
-- Tailwind · Storybook
+- React · Vue.js · Next.js · Tailwind · Storybook
 
 ### DevOps & Infrastucture
-- Linux · Docker · Nginx
-- Shell scripting
-- CI/CD · GitLab Pipelines
+- Docker · Nginx · CI/CD · GitLab Pipelines
+- Cloud VPS (Linode/Akamai) · Alpine Linux · SSH
+- Git · Github · Gitlab · Shell scripts
 
 ### Tools & Utilities
-- Git · GitHub · GitLab
-- Vim · Jupyter · Postman
+- VS Code · Vim · Postman · Jupyter
+- Jira · Claude Code
 
 ## 💻 Personal Setup
 - macOS
 - Ghostty terminal + zsh
-- Vim
-- Remote Alpine Linux server for self-hosted services and development
+- VS Code
