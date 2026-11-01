@@ -4,9 +4,7 @@ I'm a developer with a Bachelor's degree in Web Development and a strong interes
 While I have a few projects here on GitHub, my most recent projects can be found on my [GitLab profile](https://www.gitlab.com/sofiehyllen).
 
 ## 📍 At the moment
-- Recently graduated and currently **open to work**.
-- Working on a new portfolio site to showcase my projects.
-- Exploring new backend tools and system design concepts.
+- I’m currently studying for a Master’s in Computer Science
 
 ## 🛠️ Current Tech Stack
 
